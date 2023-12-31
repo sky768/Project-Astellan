@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktools_astellan=self.webpackChunktools_astellan||[]).push([[14],{1206:e=>{e.exports=JSON.parse('{"title":"Tools","description":"Here you can find List of Applications which I recommend!","keywords":["guides"],"slug":"/","permalink":"/","navigation":{"next":{"title":"Android App Stores","permalink":"/Android App Stores"}}}')}}]);
